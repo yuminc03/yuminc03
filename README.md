@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am currently studying coding at Meister High School. 👩
-## It's only been two or three years since I started coding. 
-## There are still a lot of languages I'm not very good at, so I'm learning anything hard! 💻
+I am currently studying coding at Meister High School. 👩
+It's only been two or three years since I started coding. 
+There are still a lot of languages I'm not very good at, so I'm learning anything hard! 💻
