@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **yuminc03/yuminc03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I am currently studying coding at Meister High School. 👩
+## It's only been two or three years since I started coding. 
+## There are still a lot of languages I'm not very good at, so I'm learning anything hard! 💻
