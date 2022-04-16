@@ -1,4 +1,4 @@
-# Hello!👩🏻
+# Hello~! 👩🏻‍💻
 
 ## Introduce me 
   • I am currently a beginner iOS developer working after graduating from high school. Right now, there are many things I don't know and I'm not good at it, so I'm always doing my best to study.
@@ -13,5 +13,3 @@
   
   ![snake gif](https://github.com/yuminc03/yuminc03/blob/output/github-contribution-grid-snake.gif)
 </div>
-
-
