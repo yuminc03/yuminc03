@@ -1,15 +1,27 @@
-# Hello~! 👩🏻‍💻
+# 안녕하십니까! 👩🏻‍💻
 
-## Introduce me 
-  • I am currently a beginner iOS developer working after graduating from high school. Right now, there are many things I don't know and I'm not good at it, so I'm always doing my best to study.
+## 저를 소개합니다
+마이스터고등학교를 졸업한 주니어 iOS 개발자입니다. 지금은 많이 부족하기 때문에 항상 최선을 다해 공부하며 노력하고 있습니다.
 
-## interested
-  • 👩🏻‍💻 Swift language<br/>
-  • ☕️ Take a break and drink coffee<br/>
-  • 💜 meet up with a friend<br/>
+## 좋아하거나 관심있는 것
+  • 👩🏻‍💻 Swift 언어<br/>
+  • ☕️ 커피를 마시면서 휴식하기<br/>
+  • 💜 친구 만나기<br/>
+  • 🎨 종이나 태블릿에 그림 그리기<br/>
+
+<div align=left>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuminc03&count_bg=%23FF5132&title_bg=%23646464&icon=swift.svg&icon_color=%23FF5132&title=hits&edge_flat=false"/>
+  </a>
+  <br/>
+  <br/>
   
-<div align=center>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuminc03&count_bg=%23A95BFF&title_bg=%23646464&icon=swift.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a></br></br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuminc03&hide=contribs&show_icons=true&theme=buefy"/>
+  </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminc03&layout=compact&langs_count=8"/>
+  </a>
   
   <img src="https://github.com/yuminc03/yuminc03/blob/output/github-contribution-grid-snake.svg"/>
 </div>
