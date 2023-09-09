@@ -6,8 +6,9 @@
 ## 좋아하거나 관심있는 것
   • 👩🏻‍💻 Swift 언어<br/>
   • ☕️ 커피를 마시면서 휴식하기<br/>
-  • 💜 친구 만나기<br/>
+  • 💜 친구들과 만나기<br/>
   • 🎨 종이나 태블릿에 그림 그리기<br/>
+  • 📖 여유를 가지며 책 읽기<br/>
 
 <div align=left>
   <a href="https://hits.seeyoufarm.com">
@@ -15,13 +16,13 @@
   </a>
   <br/>
   <br/>
-  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuminc03&hide=contribs&show_icons=true&theme=buefy"/>
   </a>
+  <br/>
+  <br/>
    <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminc03&layout=compact&langs_count=8"/>
   </a>
-  
   <img src="https://github.com/yuminc03/yuminc03/blob/output/github-contribution-grid-snake.svg"/>
 </div>
