@@ -10,7 +10,7 @@
   • 🎨 종이나 태블릿에 그림 그리기<br/>
   • 📖 여유를 가지며 책 읽기<br/>
 
-<div align=left>
+<div>
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuminc03&count_bg=%23FF5132&title_bg=%23646464&icon=swift.svg&icon_color=%23FF5132&title=hits&edge_flat=false"/>
   </a>
