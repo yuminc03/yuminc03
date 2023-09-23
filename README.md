@@ -17,7 +17,11 @@
   <br/>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuminc03&hide=contribs&show_icons=true&theme=buefy"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yuminc03&hide=contribs&show_icons=true&theme=midnight-purple">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yuminc03&hide=contribs&show_icons=true&theme=buefy">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuminc03&hide=contribs&show_icons=true&theme=buefy"/>
+    </picture>
   </a>
   <br/>
   <br/>
