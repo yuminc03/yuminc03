@@ -25,8 +25,12 @@
   </a>
   <br/>
   <br/>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminc03&layout=compact&langs_count=8"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminc03&theme=midnight-purple&layout=compact&langs_count=8">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminc03&theme=buefy&layout=compact&langs_count=8">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminc03&layout=compact&langs_count=8"/>
+    </picture>
   </a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yuminc03/yuminc03/blob/output/github-contribution-grid-snake-dark.svg">
