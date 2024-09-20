@@ -9,9 +9,11 @@
 
 <span>
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuminc03&count_bg=FFFFFF&title_bg=%237039C8&title=Hello!&edge_flat=false"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yuminc03&count_bg=%237039C8&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=Hello%21&edge_flat=false"/>
   </a>
 </span>
+
+
   
 ## 관심있거나 좋아하는 것
   • 👩🏻‍💻 SwiftUI + TCA를 사용하여 개발하기 (물론 UIKit + Autolayout을 사용한 개발도 좋습니다!)<br/>
