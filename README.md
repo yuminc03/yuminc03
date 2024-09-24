@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/CombineCocoa-FBC817?style=plastic&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/TCA-F05138?style=plastic&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/TCACoordinator-F05138?style=plastic&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=plastic&logo=firebase&logoColor=white"/>
 </span>
 <br/>
 <span>
@@ -106,7 +107,12 @@
 </span>
 
 ## 🩷 Contact
-
+<span>
+  <img src="https://img.shields.io/badge/yuminc03@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"/>
+  <a href="https://dpffldk.tistory.com">
+    <img src="https://img.shields.io/badge/천천히 해도 괜찮아-000000?style=plastic&logo=tistory&logoColor=white"/>
+  </a>
+</span>
 
 <div>
   <br/>
