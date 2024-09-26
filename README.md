@@ -13,6 +13,14 @@
   </a>
 </span>
 
+## 🩷 Contact
+<span>
+  <img src="https://img.shields.io/badge/yuminc03@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"/>
+  <a href="https://dpffldk.tistory.com">
+    <img src="https://img.shields.io/badge/천천히 해도 괜찮아-000000?style=plastic&logo=tistory&logoColor=white"/>
+  </a>
+</span>
+
 ## 📖 Studying
 <span>
   <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white"/>
@@ -31,33 +39,6 @@
 <span>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=plastic&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
-</span>
-
-## 💡 Skills Learned
-<span>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white"/>
-</span>
-<br/>
-<span>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-E5422B?style=plastic&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
-</span>
-<br/>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white"/>
-</span>
-<br/>
-<span>
-  <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white"/>
 </span>
 
 ## 🔨 Tools
@@ -106,12 +87,31 @@
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=plastic&logo=bitbucket&logoColor=white"/>
 </span>
 
-## 🩷 Contact
+## 💡 Skills Learned
 <span>
-  <img src="https://img.shields.io/badge/yuminc03@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"/>
-  <a href="https://dpffldk.tistory.com">
-    <img src="https://img.shields.io/badge/천천히 해도 괜찮아-000000?style=plastic&logo=tistory&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white"/>
+</span>
+<br/>
+<span>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-E5422B?style=plastic&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
+</span>
+<br/>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white"/>
+</span>
+<br/>
+<span>
+  <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white"/>
 </span>
 
 <div>
