@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/5ba5882f-7752-4774-97de-59e2b0703084" width=100/>
 
-## <img src="https://github.com/user-attachments/assets/2b25bb1f-d6dd-44e6-9a9d-f9165233884c" height=25/> Introduction 
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1103dda4-9654-48f6-ab6c-4b7880540bce"/><source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2b25bb1f-d6dd-44e6-9a9d-f9165233884c"/><img src="https://github.com/user-attachments/assets/2b25bb1f-d6dd-44e6-9a9d-f9165233884c" height=25/></picture> Introduction
 미림여자정보과학고등학교(미림마이스터고)를 졸업한 주니어 iOS 개발자입니다.<br/>
 저를 한 줄로 소개하면, 성실하게 노력하여 믿음을 주는 사람입니다. 맡은 업무에 항상 최선을 다하면서 마감일 전에 완료하고 상대방에게 믿음을 줄 수 있습니다.<br/>
 
