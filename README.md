@@ -10,14 +10,15 @@
 ## 💻 Careers
 LifeSemantics (2021.12 ~ )
 
+[![Hits](https://hits.sh/github.com/yuminc03.svg?label=Hello!&color=8f3bdf&logo=apple)](https://hits.sh/github.com/yuminc03/)
+
+<!--
 <span>
-  <a href="https://myhits.vercel.app">
-    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fyuminc03?color=purple&label=💜hits&size=small" alt="💜hits" />
-  </a>
-<!--   <a href="https://hits.seeyoufarm.com">
+  <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yuminc03&count_bg=%237039C8&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=Hello%21&edge_flat=false"/>
-  </a> -->
+  </a>
 </span>
+-->
 
 ## 🩷 Contact
 <span>
