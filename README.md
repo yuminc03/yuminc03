@@ -43,10 +43,6 @@ LifeSemantics (2021.12 ~ )
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=plastic&logo=firebase&logoColor=white"/>
 </span>
 <br/>
-<span>
-  <img src="https://img.shields.io/badge/React Native-61DAFB?style=plastic&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
-</span>
 
 ## 🔨 Tools
 <span>
@@ -119,6 +115,11 @@ LifeSemantics (2021.12 ~ )
 <span>
   <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white"/>
+</span>
+<br/>
+<span>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=plastic&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
 </span>
 
 <div>
