@@ -82,7 +82,7 @@ Sphere Corp.(LifeSemantics) (2021. 12. 1. ~ 2025. 12. 19.)
   ## 💡 Skills Learned
   <span>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-663399?style=plastic&logo=css&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white"/>
