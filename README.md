@@ -7,8 +7,8 @@
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1103dda4-9654-48f6-ab6c-4b7880540bce"/><source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2b25bb1f-d6dd-44e6-9a9d-f9165233884c"/><img src="https://github.com/user-attachments/assets/2b25bb1f-d6dd-44e6-9a9d-f9165233884c" height=25/></picture> Introduction
 미림여자정보과학고등학교(미림마이스터고)를 졸업한 주니어 iOS 개발자입니다.<br/>
 
-## 💻 Careers
-LifeSemantics (2021.12 ~ )
+## 💻 Careers
+Sphere Corp.(LifeSemantics) (2021. 12. 1. ~ 2025. 12. 19.)
 
 [![Hits](https://hits.sh/github.com/yuminc03.svg?label=Hello!&color=8f3bdf&logo=apple)](https://hits.sh/github.com/yuminc03/)
 
