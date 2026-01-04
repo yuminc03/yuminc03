@@ -28,7 +28,9 @@ Sphere Corp.(LifeSemantics) (2021. 12. 1. ~ 2025. 12. 19.)
   </a>
 </span>
 
-## 📖 Studying
+## 🧑🏻‍💼 Work Experience
+
+### 📖 Studying
 <span>
   <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=plastic&logo=swift&logoColor=white"/>
@@ -42,9 +44,7 @@ Sphere Corp.(LifeSemantics) (2021. 12. 1. ~ 2025. 12. 19.)
   <img src="https://img.shields.io/badge/TCACoordinator-F05138?style=plastic&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=plastic&logo=firebase&logoColor=white"/>
 </span>
-<br/>
 
-## 🧑🏻‍💼 Work Experience
 ### 💡 Skills Learned
 <span>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=plastic&logo=react&logoColor=white"/>
