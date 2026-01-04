@@ -45,7 +45,7 @@ Sphere Corp.(LifeSemantics) (2021. 12. 1. ~ 2025. 12. 19.)
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=plastic&logo=firebase&logoColor=white"/>
 </span>
 
-### 💡 Skills Learned
+### 💡 Skills
 <span>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=plastic&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
