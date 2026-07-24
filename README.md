@@ -64,6 +64,8 @@ Sphere Corp.(LifeSemantics) (2021. 12. 1. ~ 2025. 12. 19.)
 <span>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=plastic&logo=xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=plastic&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude Code-D97757?style=plastic&logo=claudecode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-2185D0?style=plastic&logo=vscode&logoColor=white"/>
 </span>
 <br/>
