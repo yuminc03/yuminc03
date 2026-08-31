@@ -4,8 +4,8 @@
 
 <img src="https://github.com/user-attachments/assets/5ba5882f-7752-4774-97de-59e2b0703084" width=100/>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1103dda4-9654-48f6-ab6c-4b7880540bce"/><source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2b25bb1f-d6dd-44e6-9a9d-f9165233884c"/><img src="https://github.com/user-attachments/assets/2b25bb1f-d6dd-44e6-9a9d-f9165233884c" height=25/></picture> Introduction
-미림여자정보과학고등학교(미림마이스터고)를 졸업한 주니어 iOS 개발자입니다.<br/>
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1103dda4-9654-48f6-ab6c-4b7880540bce"/><source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2b25bb1f-d6dd-44e6-9a9d-f9165233884c"/><img src="https://github.com/user-attachments/assets/2b25bb1f-d6dd-44e6-9a9d-f9165233884c" height=25/></picture> Introduction
+미림여자정보과학고등학교(미림마이스터고)를 졸업한 주니어 iOS 개발자입니다.
 
 ## 💻 Careers
 Sphere Corp.(LifeSemantics Corp.) (2021. 12. 1. ~ 2025. 12. 19.)
@@ -13,156 +13,144 @@ Sphere Corp.(LifeSemantics Corp.) (2021. 12. 1. ~ 2025. 12. 19.)
 [![Hits](https://hits.sh/github.com/yuminc03.svg?label=Hello!&color=8f3bdf&logo=apple)](https://hits.sh/github.com/yuminc03/)
 
 <!--
-<span>
+<div>
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yuminc03&count_bg=%237039C8&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=Hello%21&edge_flat=false"/>
   </a>
-</span>
+</div>
 -->
 
 ## 🩷 Contact
-<span>
+<div>
   <img src="https://img.shields.io/badge/yuminc03@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"/>
   <a href="https://dpffldk.tistory.com">
     <img src="https://img.shields.io/badge/천천히 해도 괜찮아-000000?style=plastic&logo=tistory&logoColor=white"/>
   </a>
-</span>
+</div>
 
 ## 🧑🏻‍💼 Work Experience
 
 ### 📖 Studying
-<span>
+<div>
   <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=plastic&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=plastic&logo=swift&logoColor=white"/>
-</span>
-<br/>
-<span>
+</div>
+<div>
   <img src="https://img.shields.io/badge/Combine-F05138?style=plastic&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/CombineCocoa-FBC817?style=plastic&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/TCA-F05138?style=plastic&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/TCACoordinator-F05138?style=plastic&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=plastic&logo=firebase&logoColor=white"/>
-</span>
+</div>
 
 ### 💡 Skills
-<span>
+<div>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=plastic&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white"/>
-</span>
+</div>
 
 ### 🔨 Tools
-<span>
+<div>
   <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"/>
-</span>
-<br/>
-<span>
+</div>
+<div>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"/>
-</span>
-<br/>
-<span>
+</div>
+<div>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=plastic&logo=xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=plastic&logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude Code-D97757?style=plastic&logo=claudecode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-2185D0?style=plastic&logo=vscode&logoColor=white"/>
-</span>
-<br/>
-<span>
+</div>
+<div>
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white"/>
-</span>
-<br/>
-<span>
+</div>
+<div>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=plastic&logo=bitbucket&logoColor=white"/>
-</span>
+</div>
 
 ---
 
 <details>
   <summary>📚 What I learned in high school 📚</summary>
-  
+
   ## 💡 Skills Learned
-  <span>
+  <div>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-663399?style=plastic&logo=css&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white"/>
-  </span>
-  <br/>
-  <span>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-E5422B?style=plastic&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
-  </span>
-  <br/>
-  <span>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white"/>
-  </span>
-  <br/>
-  <span>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=android&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white"/>
-  </span>
+  </div>
 
   ## 🔨 Tools
-  <span>
+  <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
-  </span>
-  <br/>
-  <span>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white"/>
-  </span>
-  <br/>
-  <span>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/Visual Studio Code-2185D0?style=plastic&logo=vscode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Brackets-1D77BD?style=plastic&logo=brackets&logoColor=white"/>
-  </span>
-  <span>
     <img src="https://img.shields.io/badge/Visual Studio-46178F?style=plastic&logo=visualstudio&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipseide&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white"/>
-  </span>
-  <br/>
-  <span>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=plastic&logo=adobeillustrator&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=plastic&logo=adobephotoshop&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=plastic&logo=adobeaftereffects&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=plastic&logo=adobexd&logoColor=white"/>
-  </span>
-  <br/>
-  <span>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/3ds Max-00B2A5?style=plastic&logo=3dsmax&logoColor=white"/>
-  </span>
+  </div>
 </details>
 
 ---
 
-<div align="center">
-  <br/>
+<div>
   <a href="https://github.com/stats-organization/github-stats-extended">
     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=yuminc03&show_icons=true&include_all_commits=true&theme=nightowl">
       <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=yuminc03&show_icons=true&include_all_commits=true&theme=buefy">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=yuminc03&include_all_commits=true&theme=nightowl">
+      <img src="https://github-stats-extended.vercel.app/api?username=yuminc03&show_icons=true&include_all_commits=true&theme=buefy" alt="GitHub Stats"/>
     </picture>
   </a>
   &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminc03&theme=midnight-purple&layout=compact&langs_count=8">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminc03&theme=buefy&layout=compact&langs_count=8">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminc03&layout=compact&langs_count=8"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=yuminc03&theme=midnight-purple&layout=compact&langs_count=8">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=yuminc03&theme=buefy&layout=compact&langs_count=8">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yuminc03&theme=buefy&layout=compact&langs_count=8" alt="Top Languages"/>
     </picture>
   </a>
+</div>
+<div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yuminc03/yuminc03/blob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/yuminc03/yuminc03/blob/output/github-contribution-grid-snake.svg">
