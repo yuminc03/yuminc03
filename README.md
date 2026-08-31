@@ -149,11 +149,10 @@ Sphere Corp.(LifeSemantics Corp.) (2021. 12. 1. ~ 2025. 12. 19.)
 
 <div align="center">
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yuminc03&hide=contribs&show_icons=true&theme=midnight-purple">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yuminc03&hide=contribs&show_icons=true&theme=buefy">
-      <img src=""/>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=yuminc03&show_icons=true&include_all_commits=true&theme=buefy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=yuminc03&include_all_commits=true&theme=nightowl">
     </picture>
   </a>
   &nbsp; &nbsp; &nbsp;
