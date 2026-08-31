@@ -151,16 +151,17 @@ Sphere Corp.(LifeSemantics Corp.) (2021. 12. 1. ~ 2025. 12. 19.)
   <br/>
   <a href="https://github.com/stats-organization/github-stats-extended">
     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=yuminc03&show_icons=true&include_all_commits=true&theme=nightowl">
       <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=yuminc03&show_icons=true&include_all_commits=true&theme=buefy">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=yuminc03&include_all_commits=true&theme=nightowl">
+      <img src="https://github-stats-extended.vercel.app/api?username=yuminc03&show_icons=true&include_all_commits=true&theme=buefy" alt="GitHub Stats"/>
     </picture>
   </a>
   &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminc03&theme=midnight-purple&layout=compact&langs_count=8">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminc03&theme=buefy&layout=compact&langs_count=8">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminc03&layout=compact&langs_count=8"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=yuminc03&theme=midnight-purple&layout=compact&langs_count=8">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=yuminc03&theme=buefy&layout=compact&langs_count=8">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yuminc03&theme=buefy&layout=compact&langs_count=8" alt="Top Languages"/>
     </picture>
   </a>
   <picture>
