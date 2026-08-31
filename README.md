@@ -153,7 +153,7 @@ Sphere Corp.(LifeSemantics Corp.) (2021. 12. 1. ~ 2025. 12. 19.)
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yuminc03&hide=contribs&show_icons=true&theme=midnight-purple">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yuminc03&hide=contribs&show_icons=true&theme=buefy">
-      <img src="https://github-readme-stats.vercel.app/api?username=yuminc03&hide=contribs&show_icons=true&theme=buefy"/>
+      <img src=""/>
     </picture>
   </a>
   &nbsp; &nbsp; &nbsp;
