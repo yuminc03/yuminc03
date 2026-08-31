@@ -8,7 +8,7 @@
 미림여자정보과학고등학교(미림마이스터고)를 졸업한 주니어 iOS 개발자입니다.<br/>
 
 ## 💻 Careers
-Sphere Corp.(LifeSemantics) (2021. 12. 1. ~ 2025. 12. 19.)
+Sphere Corp.(LifeSemantics Corp.) (2021. 12. 1. ~ 2025. 12. 19.)
 
 [![Hits](https://hits.sh/github.com/yuminc03.svg?label=Hello!&color=8f3bdf&logo=apple)](https://hits.sh/github.com/yuminc03/)
 
