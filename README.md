@@ -5,7 +5,7 @@
 <img src="https://github.com/user-attachments/assets/5ba5882f-7752-4774-97de-59e2b0703084" width=100/>
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1103dda4-9654-48f6-ab6c-4b7880540bce"/><source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2b25bb1f-d6dd-44e6-9a9d-f9165233884c"/><img src="https://github.com/user-attachments/assets/2b25bb1f-d6dd-44e6-9a9d-f9165233884c" height=25/></picture> Introduction
-미림여자정보과학고등학교(미림마이스터고)를 졸업한 주니어 iOS 개발자입니다.
+미림여자정보과학고등학교(미림마이스터고)를 졸업한 iOS 개발자입니다.
 
 ## 💻 Careers
 Sphere Corp.(LifeSemantics Corp.) (2021. 12. 1. ~ 2025. 12. 19.)
